@@ -2,3 +2,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0050. ✨ feat: enable dark mode toggle
 0596. ♻️ chore: update .gitignore
+0511. 🐛 fix: fix broken CSS in mobile view
