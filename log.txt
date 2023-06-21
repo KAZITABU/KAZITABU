@@ -20,3 +20,4 @@
 0678. ✨ feat: add user authentication
 0705. 🔧 refactor: refactor quiz grading logic
 0195. 📚 docs: clarify environment setup
+0088. 📚 docs: add API usage examples
