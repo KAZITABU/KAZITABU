@@ -37,3 +37,4 @@
 0950. 🎨 style: reformat files with black
 0802. 🔧 refactor: remove redundant code blocks
 0946. ✅ test: add unit test for quiz service
+0594. 🎨 style: reformat files with black
