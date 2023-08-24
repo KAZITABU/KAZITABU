@@ -41,3 +41,4 @@
 0811. 🎨 style: reformat files with black
 0798. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0477. 🐛 fix: fix broken CSS in mobile view
