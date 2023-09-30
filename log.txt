@@ -48,3 +48,4 @@
 0281. ✨ feat: support email verification
 0481. ✅ test: add unit test for quiz service
 0227. ✅ test: test user registration edge cases
+0575. ✅ test: add unit test for quiz service
