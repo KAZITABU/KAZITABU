@@ -50,3 +50,4 @@
 0227. ✅ test: test user registration edge cases
 0575. ✅ test: add unit test for quiz service
 0714. 📚 docs: improve code comments in utils
+0845. 🚀 perf: cache repeated calculations
