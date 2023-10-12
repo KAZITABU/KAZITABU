@@ -51,3 +51,4 @@
 0575. ✅ test: add unit test for quiz service
 0714. 📚 docs: improve code comments in utils
 0845. 🚀 perf: cache repeated calculations
+0037. 🐛 fix: correct typo in registration form
