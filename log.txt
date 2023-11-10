@@ -55,3 +55,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0709. ♻️ chore: bump dependencies
 0464. 🎨 style: remove trailing whitespace
+0741. 🎨 style: apply consistent indentation
