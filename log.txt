@@ -59,3 +59,4 @@
 0011. ✅ test: add unit test for quiz service
 0253. 📚 docs: update README with setup steps
 0181. ♻️ chore: add GitHub actions badge
+0797. 📚 docs: add API usage examples
