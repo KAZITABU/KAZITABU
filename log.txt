@@ -64,3 +64,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0577. ✨ feat: implement quiz timer feature
 0306. 🎨 style: apply consistent indentation
+0101. 📚 docs: clarify environment setup
