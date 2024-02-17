@@ -73,3 +73,4 @@
 0337. 📚 docs: document token refresh logic
 0600. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
+0621. 🔧 refactor: clean up auth middleware
