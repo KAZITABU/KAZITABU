@@ -79,3 +79,4 @@
 0346. ✅ test: mock database connection in test suite
 0275. 🎨 style: standardize quote style
 0189. 📚 docs: clarify environment setup
+0172. 📚 docs: add API usage examples
