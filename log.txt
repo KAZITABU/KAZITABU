@@ -81,3 +81,4 @@
 0189. 📚 docs: clarify environment setup
 0172. 📚 docs: add API usage examples
 0794. ♻️ chore: clean up unused files
+0483. 📚 docs: update README with setup steps
