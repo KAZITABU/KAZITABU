@@ -85,3 +85,4 @@
 0996. ✅ test: test user registration edge cases
 0024. 📚 docs: write FAQ section
 0549. ✨ feat: enable dark mode toggle
+0559. 🔧 refactor: split large controller into smaller functions
