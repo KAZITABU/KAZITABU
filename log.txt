@@ -87,3 +87,4 @@
 0549. ✨ feat: enable dark mode toggle
 0559. 🔧 refactor: split large controller into smaller functions
 0942. ✅ test: increase coverage on auth module
+0531. 🐛 fix: prevent crash on empty input
