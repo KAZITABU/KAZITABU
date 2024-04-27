@@ -91,3 +91,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0842. 🎨 style: remove trailing whitespace
 0347. ♻️ chore: update .gitignore
+0622. 🎨 style: apply consistent indentation
