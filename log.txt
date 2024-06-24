@@ -100,3 +100,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0502. 📚 docs: update README with setup steps
 0454. ♻️ chore: bump dependencies
+0490. ✨ feat: create admin dashboard
