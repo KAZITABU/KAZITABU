@@ -102,3 +102,4 @@
 0454. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
 0595. ✨ feat: enable dark mode toggle
+0912. 📚 docs: document token refresh logic
