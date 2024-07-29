@@ -105,3 +105,4 @@
 0912. 📚 docs: document token refresh logic
 0232. 🎨 style: apply consistent indentation
 0626. 🎨 style: standardize quote style
+0393. 🚀 perf: lazy-load components
