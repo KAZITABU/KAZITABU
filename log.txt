@@ -129,3 +129,4 @@
 0941. 🚀 perf: cache repeated calculations
 0052. 🎨 style: standardize quote style
 0332. 🎨 style: standardize quote style
+0475. 🔧 refactor: clean up auth middleware
