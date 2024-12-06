@@ -132,3 +132,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0272. 🔧 refactor: remove redundant code blocks
 0831. 📚 docs: clarify environment setup
+0503. ♻️ chore: rename env.example
