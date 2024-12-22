@@ -140,3 +140,4 @@
 0486. ✨ feat: add export to CSV option
 0524. ♻️ chore: rename env.example
 0849. 🐛 fix: correct typo in registration form
+0313. 🎨 style: apply consistent indentation
