@@ -143,3 +143,4 @@
 0313. 🎨 style: apply consistent indentation
 0509. ♻️ chore: bump dependencies
 0984. ♻️ chore: clean up unused files
+0850. ♻️ chore: rename env.example
