@@ -155,3 +155,4 @@
 0323. 📚 docs: clarify environment setup
 0910. 🎨 style: remove trailing whitespace
 0390. 🎨 style: standardize quote style
+0383. 🐛 fix: fix broken CSS in mobile view
