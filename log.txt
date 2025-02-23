@@ -157,3 +157,4 @@
 0390. 🎨 style: standardize quote style
 0383. 🐛 fix: fix broken CSS in mobile view
 0202. 🔧 refactor: refactor quiz grading logic
+0365. 🚀 perf: reduce image load time
