@@ -159,3 +159,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0365. 🚀 perf: reduce image load time
 0735. ♻️ chore: add GitHub actions badge
+0975. 🎨 style: apply consistent indentation
