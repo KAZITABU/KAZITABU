@@ -160,3 +160,4 @@
 0365. 🚀 perf: reduce image load time
 0735. ♻️ chore: add GitHub actions badge
 0975. 🎨 style: apply consistent indentation
+0246. ✅ test: add integration test for /submit endpoint
