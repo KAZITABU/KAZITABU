@@ -176,3 +176,4 @@
 0846. ✨ feat: implement quiz timer feature
 0889. 🚀 perf: lazy-load components
 0865. ♻️ chore: add GitHub actions badge
+0217. 🚀 perf: reduce image load time
