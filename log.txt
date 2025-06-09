@@ -183,3 +183,4 @@
 0161. ✨ feat: create admin dashboard
 0929. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
+0689. 🎨 style: reformat files with black
